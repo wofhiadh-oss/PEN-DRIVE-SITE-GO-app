@@ -1,1 +1,3 @@
 # PEN-DRIVE-SITE-GO-app
+para poder usar o app vai precisar de pen-drive.
+DISPONIVEL EM ...
